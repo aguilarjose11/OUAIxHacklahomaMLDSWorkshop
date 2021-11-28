@@ -6,4 +6,9 @@ Welcome Sooners! This is our repository from where we will learn basic machine l
 Citations
 ---------
 
+- UC Irvine's Machine Learning Repository
+- Kaggle
+- Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: concepts, tools, and techniques to build intelligent systemr by Aurélien Géron.
+
+
 OUAI x Hacklahoma -- Jose E. Aguilar Escamilla Fall 2021
